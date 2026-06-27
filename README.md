@@ -1,7 +1,7 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm ARITRA DEY👋
 
 ## 🎓 About Me
-- 🔭 I'm a **Computer Science Student** at [BRAC UNIVERSITY]
+- 🔭 I'm a **Computer Science Student** at BRAC UNIVERSITY
 - 🌱 Currently learning **Flask & Web Development**
 - 👯 Looking for **Internship Opportunities**
 - 💬 Ask me about **Python, SQL, DSA, OOP**
